@@ -1,1 +1,3 @@
-# advent-of-code-2019
+# Advent of code
+
+My attempt at the advent of code challenges.
